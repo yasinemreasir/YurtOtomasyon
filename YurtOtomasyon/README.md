@@ -117,11 +117,18 @@ erDiagram
 
 - Ana Sayfa
 - Bölümler
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/bolumler%20sayfasi.png?raw=true)
 - Oda Tipleri
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/oda%20tipleri%20sayfasi.png?raw=true)
 - Odalar
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/odalar%20sayfasi.png?raw=true)
 - Öğrenciler
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/ogrenciler%20sayfasi.png?raw=true)
 - Ödemeler
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/odemeler%20sayfasi.png?raw=true)
 - İzinler
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/izinler%20sayfas%C4%B1.png?raw=true)
+
 
 ## Referanslar
 
