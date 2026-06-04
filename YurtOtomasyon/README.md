@@ -35,7 +35,7 @@ Proje ASP.NET Core MVC mimarisi ile hazırlanmıştır [1].
 
 Uygulamada öğrenciler, bölümler, oda tipleri, odalar, ödemeler ve izinler ayrı sayfalarda yönetilir.
 
-Her temel sayfada basit şekilde listeleme, ekleme, düzenleme ve silme işlemleri bulunur. Proje özellikle Veritabanı Yönetim Sistemleri dersi için sade tutulmuştur. Login, rol sistemi veya karmaşık yönetim paneli eklenmemiştir.
+Her temel sayfada basit şekilde listeleme, ekleme, düzenleme ve silme işlemleri bulunur. Proje özellikle Veritabanı Yönetim Sistemleri dersi için geliştirilmiştir.
 
 ## Veritabanı Tabloları
 
