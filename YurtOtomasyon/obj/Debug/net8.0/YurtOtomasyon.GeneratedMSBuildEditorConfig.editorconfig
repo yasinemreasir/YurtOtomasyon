@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YurtOtomasyon
+build_property.RootNamespace = YurtOtomasyon
+build_property.ProjectDir = C:\Users\yasin\Documents\Codex\2026-05-26\daha-nce-yurt-otomasyon-projesi-yapt\YurtOtomasyon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yasin\Documents\Codex\2026-05-26\daha-nce-yurt-otomasyon-projesi-yapt\YurtOtomasyon
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Bolumler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1sZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Bolumler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1sZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Bolumler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1sZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Izinler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXppbmxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Izinler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXppbmxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Izinler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXppbmxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Odalar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhbGFyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Odalar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhbGFyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Odalar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/OdaTipleri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhVGlwbGVyaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/OdaTipleri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhVGlwbGVyaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/OdaTipleri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RhVGlwbGVyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Odemeler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RlbWVsZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Odemeler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RlbWVsZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Odemeler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RlbWVsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Ogrenciler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaWxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Ogrenciler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaWxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Ogrenciler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaWxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yasin/Documents/Codex/2026-05-26/daha-nce-yurt-otomasyon-projesi-yapt/YurtOtomasyon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zvic8x69be

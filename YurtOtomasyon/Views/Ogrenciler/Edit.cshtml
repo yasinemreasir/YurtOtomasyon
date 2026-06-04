@@ -1,0 +1,21 @@
+@model Ogrenci
+@{ ViewData["Title"] = "Ogrenci Duzenle"; }
+
+<h2>Ogrenci Duzenle</h2>
+<form method="post">
+    <input type="hidden" asp-for="OgrenciID" />
+    <label>TC</label>
+    <input asp-for="TC" class="form-control mb-3" maxlength="11" required />
+    <label>Ad</label>
+    <input asp-for="Ad" class="form-control mb-3" required />
+    <label>Soyad</label>
+    <input asp-for="Soyad" class="form-control mb-3" required />
+    <label>Telefon</label>
+    <input asp-for="Telefon" class="form-control mb-3" />
+    <label>Bolum</label>
+    <select asp-for="BolumID" asp-items="ViewBag.Bolumler" class="form-control mb-3"></select>
+    <label>Oda</label>
+    <select asp-for="OdaID" asp-items="ViewBag.Odalar" class="form-control mb-3"></select>
+    <button class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Index">Geri</a>
+</form>

@@ -1,0 +1,15 @@
+@model Oda
+@{ ViewData["Title"] = "Oda Duzenle"; }
+
+<h2>Oda Duzenle</h2>
+<form method="post">
+    <input type="hidden" asp-for="OdaID" />
+    <label>Oda No</label>
+    <input asp-for="OdaNo" class="form-control mb-3" required />
+    <label>Oda Tipi</label>
+    <select asp-for="OdaTipID" asp-items="ViewBag.OdaTipleri" class="form-control mb-3"></select>
+    <label>Kapasite</label>
+    <input asp-for="Kapasite" class="form-control mb-3" required />
+    <button class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Index">Geri</a>
+</form>

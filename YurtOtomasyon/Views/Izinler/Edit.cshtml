@@ -1,0 +1,17 @@
+@model Izin
+@{ ViewData["Title"] = "İzin Düzenle"; }
+
+<h2>İzin Düzenle</h2>
+<form method="post">
+    <input type="hidden" asp-for="IzinID" />
+    <label>Öğrenci</label>
+    <select asp-for="OgrenciID" asp-items="ViewBag.Ogrenciler" class="form-control mb-3"></select>
+    <label>Çıkış Tarihi</label>
+    <input asp-for="CikisTarihi" type="date" class="form-control mb-3" required />
+    <label>Dönüş Tarihi</label>
+    <input asp-for="DonusTarihi" type="date" class="form-control mb-3" required />
+    <label>Açıklama</label>
+    <input asp-for="Aciklama" class="form-control mb-3" />
+    <button class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Index">Geri</a>
+</form>

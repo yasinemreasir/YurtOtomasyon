@@ -1,0 +1,10 @@
+@model Bolum
+@{ ViewData["Title"] = "Bolum Ekle"; }
+
+<h2>Bolum Ekle</h2>
+<form method="post">
+    <label>Bolum Adi</label>
+    <input asp-for="BolumAdi" class="form-control mb-3" required />
+    <button class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Index">Geri</a>
+</form>

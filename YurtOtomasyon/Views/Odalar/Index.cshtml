@@ -1,0 +1,25 @@
+@model List<Oda>
+@{ ViewData["Title"] = "Odalar"; }
+
+<h2>Odalar</h2>
+<a class="btn btn-primary mb-3" asp-action="Create">Yeni Oda</a>
+
+<table class="table table-bordered table-sm">
+    <tr><th>ID</th><th>Oda No</th><th>Tip</th><th>Kapasite</th><th>Ogrenci Sayisi</th><th>Islem</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OdaID</td>
+            <td>@item.OdaNo</td>
+            <td>@item.TipAdi</td>
+            <td>@item.Kapasite</td>
+            <td>@item.OgrenciSayisi</td>
+            <td>
+                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.OdaID">Duzenle</a>
+                <form asp-action="Delete" asp-route-id="@item.OdaID" method="post" class="d-inline">
+                    <button class="btn btn-sm btn-danger">Sil</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>

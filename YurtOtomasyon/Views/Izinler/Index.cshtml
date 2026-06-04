@@ -1,0 +1,25 @@
+@model List<Izin>
+@{ ViewData["Title"] = "İzinler"; }
+
+<h2>İzinler</h2>
+<a class="btn btn-primary mb-3" asp-action="Create">Yeni İzin</a>
+
+<table class="table table-bordered table-sm">
+    <tr><th>ID</th><th>Öğrenci</th><th>Çıkış Tarihi</th><th>Dönüş Tarihi</th><th>Açıklama</th><th>İşlem</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.IzinID</td>
+            <td>@item.OgrenciAdSoyad</td>
+            <td>@item.CikisTarihi.ToShortDateString()</td>
+            <td>@item.DonusTarihi.ToShortDateString()</td>
+            <td>@item.Aciklama</td>
+            <td>
+                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.IzinID">Düzenle</a>
+                <form asp-action="Delete" asp-route-id="@item.IzinID" method="post" class="d-inline">
+                    <button class="btn btn-sm btn-danger">Sil</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>

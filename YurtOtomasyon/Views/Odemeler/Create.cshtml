@@ -1,0 +1,16 @@
+@model Odeme
+@{ ViewData["Title"] = "Odeme Ekle"; }
+
+<h2>Odeme Ekle</h2>
+<form method="post">
+    <label>Ogrenci</label>
+    <select asp-for="OgrenciID" asp-items="ViewBag.Ogrenciler" class="form-control mb-3"></select>
+    <label>Tutar</label>
+    <input asp-for="Tutar" class="form-control mb-3" required />
+    <label>Tarih</label>
+    <input asp-for="OdemeTarihi" type="date" class="form-control mb-3" required />
+    <label>Aciklama</label>
+    <input asp-for="Aciklama" class="form-control mb-3" />
+    <button class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Index">Geri</a>
+</form>
