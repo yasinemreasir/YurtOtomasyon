@@ -1,5 +1,6 @@
 # Yurt Otomasyon Sistemi
 
+![image alt](https://github.com/yasinemreasir/YurtOtomasyon/blob/main/YurtOtomasyon/Images/ana%20sayfa.png?raw=true)
 ## Problem Tanımı
 
 Yurtlarda öğrencilerin oda, bölüm, ödeme ve izin bilgilerinin düzenli şekilde takip edilmesi gerekir. Bu bilgiler dağınık tutulduğunda oda doluluk durumu, öğrenci ödemeleri ve izin kayıtları karışabilir.
