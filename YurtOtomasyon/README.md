@@ -112,19 +112,6 @@ erDiagram
     OGRENCILER ||--o{ IZINLER : alir
 ```
 
-## Kurulum
-
-1. SQL Server veya LocalDB kurulu olmalıdır.
-2. `Database/14_sql_betikleri.sql` dosyası SQL Server üzerinde çalıştırılır.
-3. Visual Studio ile `YurtOtomasyon.sln` açılır.
-4. Uygulama çalıştırılır.
-
-Varsayılan bağlantı:
-
-```text
-Server=(localdb)\MSSQLLocalDB;Database=YurtOtomasyonDB;Trusted_Connection=True;TrustServerCertificate=True;
-```
-
 ## Ekranlar
 
 - Ana Sayfa
